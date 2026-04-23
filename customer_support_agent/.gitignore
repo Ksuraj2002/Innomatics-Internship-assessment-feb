@@ -1,0 +1,5 @@
+.pytest_cache\
+.venev\
+tests\
+.env.example
+Untitled.png
